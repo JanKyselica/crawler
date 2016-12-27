@@ -30,5 +30,6 @@
         </li>
     <?php } ?>
 </ul>
+<div>Značka: <b><?php echo $product->manufacturer; ?></b></div>
 <div>Popis: <b><?php echo $product->description; ?></b></div>
 </body>
