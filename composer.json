@@ -1,0 +1,13 @@
+{
+    "require": {
+        "dompdf/dompdf": "^0.7.0"
+    },
+  "autoload": {
+    "classmap": [
+      "lib"
+    ],
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
